@@ -18,7 +18,7 @@ public class Homework {
             sum = sum + i;
         }
         System.out.println("Сумма чисел от 1 до 100 = " + sum);
-        System.out.println("================");
+        System.out.println("=================");
 
         //Ot 10 do 1
 
