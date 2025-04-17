@@ -17,7 +17,7 @@ public class Variables {
         short bookPages = 320;
         short houseNumber = 1234;
 
-        // ===== int (целые числа//32 бита) =====
+        // ===== int (целые числа/32 бита) =====
         int age = 27;
         int birthYear = 1997;
         int temperature = -5;
